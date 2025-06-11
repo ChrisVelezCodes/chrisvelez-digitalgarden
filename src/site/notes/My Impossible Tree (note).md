@@ -22,7 +22,7 @@ Is it an action or is it a project? (then what?)
 - [x] Become a music therapist
 - [x] NMT certified (now license?)
 - [x] NICU designation 
-- [ ] Hospice & Palliative care designation[[Cards (Zettlekasten, ideas, notes)/Certificate in Hospice and Palliative Care Music Therapy (HPMT)\|Certificate in Hospice and Palliative Care Music Therapy (HPMT)]] 2/4
+- [ ] [[Cards (Zettlekasten, ideas, notes)/Certificate in Hospice and Palliative Care Music Therapy (HPMT)\|Certificate in Hospice and Palliative Care Music Therapy (HPMT)]] 2/4
 	- [x] [[Counseling Skills for Music Therapist Institute 2023\|Counseling Skills for Music Therapist Institute 2023]]
 	- [x] Adult and Seniors Grief & Loss Music Therapy Institute
 	- [ ] Hospice & Palliative Care Music Therapy Institute– includes Gospel and Motown repertoire development
