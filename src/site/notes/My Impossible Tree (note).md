@@ -43,7 +43,8 @@ Is it an action or is it a project? (then what?)
 
 
 # Creative
-
+- [ ] Learn a song on the cuatro
+	- [ ] Get cuatro's bridge fixed
 
 # Fun / Insane Goals
 
