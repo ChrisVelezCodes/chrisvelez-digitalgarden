@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/my-impossible-tree-note/","tags":["ImpossibleTree","gardenEntry"]}
 ---
 
+
+> [!info] If you are reading this online...
+> This is currently a work in progress that has just started in June 2025. I am hoping to make some my personal notes public as I learn about my different interests. What will come out of this is not known yet. Let your curiosity reign. 
+> - *Chris 6/11/25*
+
+
 Is it an action or is it a project? (then what?)
 # Body / Fitness
 - [ ] Only water 1 week
@@ -16,7 +22,11 @@ Is it an action or is it a project? (then what?)
 - [x] Become a music therapist
 - [x] NMT certified (now license?)
 - [x] NICU designation 
-- [ ] Hospice&Palliative care designation 2/4
+- [ ] Hospice & Palliative care designation[[Cards (Zettlekasten, ideas, notes)/Certificate in Hospice and Palliative Care Music Therapy (HPMT)\|Certificate in Hospice and Palliative Care Music Therapy (HPMT)]] 2/4
+	- [x] [[Counseling Skills for Music Therapist Institute 2023\|Counseling Skills for Music Therapist Institute 2023]]
+	- [x] Adult and Seniors Grief & Loss Music Therapy Institute
+	- [ ] Hospice & Palliative Care Music Therapy Institute– includes Gospel and Motown repertoire development
+	- [ ] Child and Adolescent Grief & Loss Music Therapy Institute
 - [ ] Turn competencies into a skill tree type of self-assessment (am I just reinventing internship evaluation forms? maybe I'm creating personal assessment tool for notes with things pertaining to my own progress)
 
 ## Expanding fields
@@ -27,7 +37,7 @@ Is it an action or is it a project? (then what?)
 	- [ ] Get interpreting training 
 	- [ ] Live interpret a sermon at church 
 - [ ] [[Learn to code\|Learn to code]]
-	- [ ] Complete freecodecamp courses
+	- [ ] Complete [[Freecodecamp courses\|Freecodecamp courses]]
 	- [ ] 
 
 # Skills
@@ -81,6 +91,6 @@ Is it an action or is it a project? (then what?)
 # Social goals / Relationship?
 
 
-# Renaissance Man?
+# "Renaissance Man"?
 
 
